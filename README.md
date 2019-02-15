@@ -1,3 +1,3 @@
 # tlr2.github.io
-Terry Renneberg P.Eng.
+Terry Renneberg
 personal web page
